@@ -16,21 +16,27 @@ O objetivo deste repositório é fornecer uma introdução sólida ao Aprendizad
 
 3. **Aula 3: Deep Q-Learning**  
    - Introdução ao Deep Q-Learning, um método de aprendizado por reforço que utiliza redes neurais profundas.
-   - Aplicação prática do algoritmo Deep Q-Learning em um ambiente de escolha, com a implementação de uma rede neural para aproximar a função de valor.
+   - Aplicação prática do algoritmo Deep Q-Learning em dois ambientes diferentes: `Breakout` e `LunarLander`.
 
 ## Estrutura do Repositório
 
 ```
 Mastering-Reinforcement-Learning/
-├── Aula_1_Q_Learning_Taxi.ipynb
-├── Aula_2_FrozenLake_Bellman_Equation.ipynb
-├── Aula_3_Deep_Q_Learning.ipynb
+├── Aula1_Q_Learning_Taxi.ipynb
+├── Aula2_Bellman.ipynb
+├── Aula2_Grid_movements_RL.ipynb
+├── Aula2_Q_Learning_FrozenLakev1.ipynb
+├── Aula3_DQN_Breakout.ipynb
+├── Aula3_DQN_LunarLander.ipynb
 ├── README.md
 ```
 
-- **Aula_1_Q_Learning_Taxi.ipynb**: Notebook que explora a implementação de Q-Learning no ambiente `Taxi` do gymnasium.
-- **Aula_2_FrozenLake_Bellman_Equation.ipynb**: Notebook explicativo sobre a Equação de Bellman e a implementação de Q-Learning no ambiente `FrozenLake`.
-- **Aula_3_Deep_Q_Learning.ipynb**: Notebook onde você implementa o Deep Q-Learning para um ambiente específico.
+- **Aula1_Q_Learning_Taxi.ipynb**: Notebook que explora a implementação de Q-Learning no ambiente `Taxi` do gymnasium.
+- **Aula2_Bellman.ipynb**: Explicação sobre a Equação de Bellman e sua relação com a tomada de decisão sequencial.
+- **Aula2_Grid_movements_RL.ipynb**: Demonstração prática de movimentos em uma grade utilizando aprendizado por reforço.
+- **Aula2_Q_Learning_FrozenLakev1.ipynb**: Implementação do algoritmo de Q-Learning no ambiente `FrozenLake`, explorando como o agente deve evitar buracos e alcançar a meta.
+- **Aula3_DQN_Breakout.ipynb**: Implementação de Deep Q-Learning no ambiente `Breakout`, utilizando uma rede neural para aproximar a função de valor.
+- **Aula3_DQN_LunarLander.ipynb**: Implementação de Deep Q-Learning no ambiente `LunarLander`, com uma rede neural que ajuda o agente a pousar com segurança.
 
 ## Como Rodar os Notebooks
 
