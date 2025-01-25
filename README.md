@@ -71,7 +71,3 @@ Contribuições são bem-vindas! Se você deseja colaborar com melhorias no cód
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Esse README cobre o básico para o seu repositório e é fácil de entender e seguir para quem estiver interessado em aprender sobre Aprendizado por Reforço. Se precisar de algo mais, estou à disposição!
