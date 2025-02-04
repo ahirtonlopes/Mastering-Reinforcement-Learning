@@ -47,11 +47,7 @@ Mastering-Reinforcement-Learning/
    cd Mastering-Reinforcement-Learning
    ```
 
-2. Instale as dependências necessárias (recomendamos o uso de um ambiente virtual):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Instale as dependências necessárias (recomendamos o uso de um ambiente virtual).
 
 3. Abra os notebooks utilizando Jupyter ou Google Colab e siga os passos descritos em cada aula.
 
